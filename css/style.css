@@ -1,0 +1,22 @@
+.sidebar-kiri {
+  background-color: red;
+  height: 500px;
+}
+
+.sidebar-kanan{
+  background-color: yellow;
+  height: 500px;
+}
+
+.container {
+  /*background-color: violet;*/
+}
+
+.btn-atas {
+  background-color: red;
+  
+
+}
+
+
+
